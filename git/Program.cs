@@ -11,7 +11,7 @@ namespace Calculator
       
         static void Main(string[] args)
         {
-            Console.WriteLine("Third commit");
+            Console.WriteLine("Commit for develop branch");
             Console.WriteLine("-----------------------");
             Console.WriteLine("|Operators: +, -, *, /|");
             Console.WriteLine("| c - previous result |");
