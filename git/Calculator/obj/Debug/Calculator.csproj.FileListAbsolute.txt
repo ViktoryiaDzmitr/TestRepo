@@ -1,6 +1,0 @@
-D:\Visual Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
-D:\Visual Projects\Calculator\Calculator\bin\Debug\Calculator.exe
-D:\Visual Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
-D:\Visual Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
-D:\Visual Projects\Calculator\Calculator\obj\Debug\Calculator.exe
-D:\Visual Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
