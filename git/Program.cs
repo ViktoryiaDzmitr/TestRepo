@@ -11,6 +11,7 @@ namespace Calculator
       
         static void Main(string[] args)
         {
+            Console.WriteLine("First commit");
             Console.WriteLine("-----------------------");
             Console.WriteLine("|Operators: +, -, *, /|");
             Console.WriteLine("| c - previous result |");
@@ -49,7 +50,7 @@ namespace Calculator
                         }
                         catch
                         {
-                            Console.WriteLine("Enter number!");
+                            Console.WriteLine("Enter number!!!");
                             stat1 = false;
                         }
                     }
